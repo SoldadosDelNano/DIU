@@ -11,6 +11,7 @@ Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Actividades de Turismo)
 
  >Logotipo: 
   >![logo](P3/logo_2.png)
+  
 >Miembros
  >* :bust_in_silhouette:   Jesús Jaenes Sánchez     :octocat: www.github.com/jesusk   
  >* :bust_in_silhouette:  Adrián Anguita Muñoz     :octocat: www.github.com/oneadri
