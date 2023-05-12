@@ -41,35 +41,36 @@ además de tener también tours guiados de pago.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
-Alba:
+---
+>Alba:
 Hemos elegido a esta persona ya que es una persona joven con la capacidad de intuir los 
 diferentes interfaces y va a ser más exigente a la hora de hacer uso de ellos. Esta interesada 
 vivir experiencias nuevas con sus amigas.
-![persona1](P1/img/Persona#1.png)
+![persona1](P1/img/Persona1.png)
 
-Paco:
+>Paco:
 Hemos elegido a esta persona ya que se trata de una persona totalmente contraría a la hora de 
 manejar las tecnologías, por lo que puede tener dificultades a la hora de hacer uso de ellas.
 También esta interesado en hacer algunas actividades con los amigos.
+![persona1](P1/img/Persona2.png)
 
-![persona1](P1/img/Persona#2.png)
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
+---
+>Hemos elegido estas experiencias similares porque son lo mas frecuentes y lo que más se 
+adapta a la personalidad de estas dos personas. También para ver como se comporta una 
+persona acostumbrada al uso de estos sitios webs frente a una persona que no está habituada.
+![persona1](P1/img/User_Journey_Map1.png)
+![persona2](P1/img/User_Journey_Map2.png)
+
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>Enlace al documento: [hola de calculo](https://github.com/SoldadosDelNano/DIU/blob/master/P1/Usability-review.xlsx)
+>Valoración final (numérica): 54
+>Comentario sobre la valoración: Corresponde totalmente, esta página tiene mucho que mejorar, tanto a nivel de usabilidad como a nivel funcional.
 
 
 ## Paso 2. UX Design  
