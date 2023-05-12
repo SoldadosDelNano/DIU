@@ -69,7 +69,9 @@ persona acostumbrada al uso de estos sitios webs frente a una persona que no est
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 >Enlace al documento: [hola de calculo](https://github.com/SoldadosDelNano/DIU/blob/master/P1/Usability-review.xlsx)
+
 >Valoración final (numérica): 54
+
 >Comentario sobre la valoración: Corresponde totalmente, esta página tiene mucho que mejorar, tanto a nivel de usabilidad como a nivel funcional.
 
 
