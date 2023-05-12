@@ -27,9 +27,32 @@ Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Actividades de Turismo)
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>Hemos elegido los diferentes sitios web anteriores ya que estamos en el contexto de reservar 
+una experiencia turística.
+- Artesanía Nazarí: Se centra en la cultura Nazarí, específicamente en visitas al taller de 
+arte y la realización de otras actividades manuales. Ofrece distintas experiencias para 
+grupos distintos (escuelas, erasmus).
+- Tablao flamenco: Se trata de una experiencia visual junto a la gastronómica típica de 
+Ganada. Permite además diferentes experiencias, como pueden ser rutas turísticas de 
+sitios emblemáticos de Granada, clases de flamenco y demás actividades relacionadas.
+- Tour guide: Ofrece tours gratuitos sobre los sitios más reconocidos en Granada, 
+además de tener también tours guiados de pago.
+>![Método UX](P1/img/Competitor_Analysis.png)
+
 
 ![Método UX](img/Persona.png) 1.b Persona
+Alba:
+Hemos elegido a esta persona ya que es una persona joven con la capacidad de intuir los 
+diferentes interfaces y va a ser más exigente a la hora de hacer uso de ellos. Esta interesada 
+vivir experiencias nuevas con sus amigas.
+![persona1](P1/img/Persona#1.png)
+
+Paco:
+Hemos elegido a esta persona ya que se trata de una persona totalmente contraría a la hora de 
+manejar las tecnologías, por lo que puede tener dificultades a la hora de hacer uso de ellas.
+También esta interesado en hacer algunas actividades con los amigos.
+
+![persona1](P1/img/Persona#2.png)
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
