@@ -9,6 +9,7 @@ Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Actividades de Turismo)
 >Descripción: Sitio web con actividades de visita y cursos relacionados con la artesanía nazarí 
 
  >Logotipo: 
+ 
  ![logo](P3/logo_2.png)
 
 
