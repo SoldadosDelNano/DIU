@@ -1,22 +1,19 @@
 # DIU23
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Actividades de Turismo) 
 
-Grupo: DIU3_SoldadosDelNano.  Curso: 2022/23 
-Updated: 11/1/2023
+>Grupo: DIU3_SoldadosDelNano.  Curso: 2022/23 
+>Updated: 11/1/2023
 
-Proyecto: 
->>> Artesanía Nazarí
+>Proyecto: Artesanía Nazarí
 
-Descripción: 
+>Descripción: Sitio web con actividades de visita y cursos relacionados con la artesanía nazarí 
 
->>> Sitio web con actividades de visita y cursos relacionados con la artesanía nazarí 
+> Logotipo: (p3/logo_2.png)
 
-Logotipo: 
->>> logo_2.png
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Jesús Jaenes Sánchez     :octocat: www.github.com/jesusk   
+ * :bust_in_silhouette:  Adrián Anguita Muñoz     :octocat: www.github.com/oneadri
 
 ----- 
 
