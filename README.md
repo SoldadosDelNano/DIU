@@ -61,7 +61,11 @@ También esta interesado en hacer algunas actividades con los amigos.
 >Hemos elegido estas experiencias similares porque son lo mas frecuentes y lo que más se 
 adapta a la personalidad de estas dos personas. También para ver como se comporta una 
 persona acostumbrada al uso de estos sitios webs frente a una persona que no está habituada.
+
+>Journey map de Alba
 ![persona1](P1/img/User_Journey_Map1.png)
+
+>Journey map de Paco
 ![persona2](P1/img/User_Journey_Map2.png)
 
 ----
