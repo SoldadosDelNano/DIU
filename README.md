@@ -1,18 +1,18 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Actividades de Turismo) 
 
-Grupo: DIU1_01AABB.  Curso: 2022/23 
+Grupo: DIU3_SoldadosDelNano.  Curso: 2022/23 
 Updated: 11/1/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Artesanía Nazarí
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Sitio web con actividades de visita y cursos relacionados con la artesanía nazarí 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> logo_2.png
 
 Miembros
  * :bust_in_silhouette:   AA     :octocat:     
