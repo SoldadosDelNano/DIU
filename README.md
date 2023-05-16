@@ -110,22 +110,22 @@ nuestra propuesta de valor más genérica.
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
->>![sitemap](P2/site_map.png)
+>>![taskanalisis](P2/Task_Analisis.png)
+
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
-
->>> Identificar términos para diálogo con usuario  
->>![labelling](P2/Labelling.png)
+> Identificar términos para diálogo con usuario  
+>![sitemap](P2/site_map.png)
+>![labelling](P2/Labelling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
 >Hemos diseñado unos bocetos de forma muy general para ver como vamos a plantera nuestro diseño 
-
+>![bocetos](P2/Boceto.jpeg)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
