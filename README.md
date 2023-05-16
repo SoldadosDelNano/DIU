@@ -86,16 +86,17 @@ persona acostumbrada al uso de estos sitios webs frente a una persona que no est
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+> En nuestro caso hemos elegido hacer una malla receptora de ideas.
+>![malla](P2/Malla.png)
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
+>Nuestra propuesta de valor será la de aplicar cursos para aprender a distintos niveles y que
+también alguien profesional pueda indicar que desea impartir algunos de estos cursos,
+eligiendo también el nivel deseado.
+Somos conscientes que podemos agrandar tanto como queramos los cursos en sí en cuanto a
+contextos, diferentes usuarios, por grupos, individuales... Pero hemos optado por hacer
+nuestra propuesta de valor más genérica.
+
+
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
 >>> (150-200 caracteres)
 
@@ -103,12 +104,13 @@ persona acostumbrada al uso de estos sitios webs frente a una persona que no est
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>![canvas](P2/canvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
+>>![sitemap](P2/site_map.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
@@ -116,16 +118,13 @@ persona acostumbrada al uso de estos sitios webs frente a una persona que no est
 
 
 >>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+>>![labelling](P2/Labelling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>Hemos diseñado unos bocetos de forma muy general para ver como vamos a plantera nuestro diseño 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
