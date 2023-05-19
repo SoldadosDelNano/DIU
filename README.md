@@ -97,10 +97,6 @@ contextos, diferentes usuarios, por grupos, individuales... Pero hemos optado po
 nuestra propuesta de valor más genérica.
 
 
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
