@@ -130,7 +130,7 @@ nuestra propuesta de valor más genérica.
 -----
 
 
->![moodboard](P3/canvas_moodboard.png)
+>![moodboard](P3/canvas_moodboar.png)
 > Nuestro logotipo ha sido diseñado con la ayuda de https://logomakr.com/ además para el diseño de nuestro moodboard hemos utilizado https://app.milanote.com/
 > Este sería nuestro logotipo principal:
 >![logo](P3/logo_2.png)
