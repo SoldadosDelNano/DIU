@@ -14,7 +14,7 @@ Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Actividades de Turismo)
   >![logo](P3/logo_2.png)
   
 >Miembros
- >* :bust_in_silhouette:   Jesús Jaenes Sánchez     :octocat: www.github.com/jesusk   
+ >* :bust_in_silhouette:   Jesús Jaenes Sánchez     :octocat: www.github.com/jesusk
  >* :bust_in_silhouette:  Adrián Anguita Muñoz     :octocat: www.github.com/oneadri
 
 ----- 
@@ -46,12 +46,19 @@ además de tener también tours guiados de pago.
 Hemos elegido a esta persona ya que es una persona joven con la capacidad de intuir los 
 diferentes interfaces y va a ser más exigente a la hora de hacer uso de ellos. Esta interesada 
 vivir experiencias nuevas con sus amigas.
+
+
 ![persona1](P1/img/Persona1.png)
+
+
+
 
 >Paco:
 Hemos elegido a esta persona ya que se trata de una persona totalmente contraría a la hora de 
 manejar las tecnologías, por lo que puede tener dificultades a la hora de hacer uso de ellas.
 También esta interesado en hacer algunas actividades con los amigos.
+
+
 ![persona1](P1/img/Persona2.png)
 
 -----
@@ -64,7 +71,8 @@ persona acostumbrada al uso de estos sitios webs frente a una persona que no est
 
 >Journey map de Alba
 ![persona1](P1/img/User_Journey_Map1.png)
-
+<br>
+ 
 >Journey map de Paco
 ![persona2](P1/img/User_Journey_Map2.png)
 
@@ -77,6 +85,8 @@ persona acostumbrada al uso de estos sitios webs frente a una persona que no est
 >Valoración final (numérica): 54
 
 >Comentario sobre la valoración: Corresponde totalmente, esta página tiene mucho que mejorar, tanto a nivel de usabilidad como a nivel funcional.
+
+
 
 
 ## Paso 2. UX Design  
@@ -96,20 +106,21 @@ Somos conscientes que podemos agrandar tanto como queramos los cursos en sí en 
 contextos, diferentes usuarios, por grupos, individuales... Pero hemos optado por hacer
 nuestra propuesta de valor más genérica.
 
-
-
+ 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >![canvas](P2/canvas.png)
+<br>
+ 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
-> Definir "User Map" y "Task Flow" ... 
 >![taskanalisis](P2/Task_Analisis.png)
 
 
 
+ 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 > Identificar términos para diálogo con usuario  
@@ -120,8 +131,14 @@ nuestra propuesta de valor más genérica.
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->Hemos diseñado unos bocetos de forma muy general para ver como vamos a plantera nuestro diseño 
->![bocetos](P2/Boceto.jpeg)
+>Hemos diseñado unos bocetos de forma muy general para ver como vamos a plantera nuestro diseño
+
+
+![bocetos](P2/Boceto.jpeg)
+
+
+
+
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
@@ -146,18 +163,24 @@ nuestra propuesta de valor más genérica.
 ----
 >Para abordar esta parte hemos investigado sobre los diferentes patrones y guidelines que existen apoyándonos en páginas como: https://developer.apple.com/design/human-interface-guidelines/ https://m3.material.io/ 
 >-	Para el caso de los botones hemos optado por un botón rectangular cuadrado sencillo sin bordes.
+
+
 > ![Método UX](P3/boton.png)</br>
-  
+
 
 >-	Para ilustrar las diferentes opciones de los cursos hemos utilizado las llamadas cards que contendrán una foto junto a una descripción breve y un botón.
 > ![Método UX](P3/cards.png)
   
 
 >-	Para los iconos hemos elegido un estilo redondeado con un relleno sólido y nítido.
+
+
 > ![Método UX](P3/iconos.png)
 
 
 >-	Para los estilos de tipografía hemos optado por dos tipos. Una para los menús y títulos(headers) y otra para el texto contenido.
+
+
 >![Método UX](P3/tipografia_estilo.png)
  
  
@@ -172,16 +195,26 @@ Por último, para nuestro layout en general hemos optado por bloques que contend
 >-	cursos=>enseña
 >-	reserva(cursos)
 >-VISITA TALLER
+
+ 
 >![Método UX](P3/visita_taller.png)
+
+
 CURSOS
 -----
 ![Método UX](P3/cursos.png)
+
+
 CURSOS APRENDE
 -----
 ![Método UX](P3/cursos_aprende.png)
+
+
 CURSOS ENSEÑA
 -----
 ![Método UX](P3/cursos_enseña.png)
+
+
 RESERVA
 -----
 ![Método UX](P3/reserva_2.png)
