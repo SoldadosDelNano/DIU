@@ -1,4 +1,4 @@
-# DIU23
+# DIU23  
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Actividades de Turismo) 
 
 >Grupo: DIU3_SoldadosDelNano.  Curso: 2022/23 
@@ -41,35 +41,42 @@ además de tener también tours guiados de pago.
 
 
 ![Método UX](img/Persona.png) 1.b Persona
-Alba:
+---
+>Alba:
 Hemos elegido a esta persona ya que es una persona joven con la capacidad de intuir los 
 diferentes interfaces y va a ser más exigente a la hora de hacer uso de ellos. Esta interesada 
 vivir experiencias nuevas con sus amigas.
-![persona1](P1/img/Persona#1.png)
+![persona1](P1/img/Persona1.png)
 
-Paco:
+>Paco:
 Hemos elegido a esta persona ya que se trata de una persona totalmente contraría a la hora de 
 manejar las tecnologías, por lo que puede tener dificultades a la hora de hacer uso de ellas.
 También esta interesado en hacer algunas actividades con los amigos.
+![persona1](P1/img/Persona2.png)
 
-![persona1](P1/img/Persona#2.png)
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
-
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
+---
+>Hemos elegido estas experiencias similares porque son lo mas frecuentes y lo que más se 
+adapta a la personalidad de estas dos personas. También para ver como se comporta una 
+persona acostumbrada al uso de estos sitios webs frente a una persona que no está habituada.
+
+>Journey map de Alba
+![persona1](P1/img/User_Journey_Map1.png)
+
+>Journey map de Paco
+![persona2](P1/img/User_Journey_Map2.png)
+
 ----
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>Enlace al documento: [Usability Review](https://github.com/SoldadosDelNano/DIU/blob/master/P1/Usability-review.xlsx)
+
+>Valoración final (numérica): 54
+
+>Comentario sobre la valoración: Corresponde totalmente, esta página tiene mucho que mejorar, tanto a nivel de usabilidad como a nivel funcional.
 
 
 ## Paso 2. UX Design  
@@ -79,47 +86,42 @@ También esta interesado en hacer algunas actividades con los amigos.
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+> En nuestro caso hemos elegido hacer una malla receptora de ideas.
+>![malla](P2/Malla.png)
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+>Nuestra propuesta de valor será la de aplicar cursos para aprender a distintos niveles y que
+también alguien profesional pueda indicar que desea impartir algunos de estos cursos,
+eligiendo también el nivel deseado.
+Somos conscientes que podemos agrandar tanto como queramos los cursos en sí en cuanto a
+contextos, diferentes usuarios, por grupos, individuales... Pero hemos optado por hacer
+nuestra propuesta de valor más genérica.
 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>![canvas](P2/canvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
+>>![taskanalisis](P2/Task_Analisis.png)
+
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
-
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+> Identificar términos para diálogo con usuario  
+>![sitemap](P2/site_map.png)
+>![labelling](P2/Labelling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+>Hemos diseñado unos bocetos de forma muy general para ver como vamos a plantera nuestro diseño 
+>![bocetos](P2/Boceto.jpeg)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
