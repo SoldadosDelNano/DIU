@@ -171,6 +171,8 @@ nuestra propuesta de valor más genérica.
 
 
 >-	Para ilustrar las diferentes opciones de los cursos hemos utilizado las llamadas cards que contendrán una foto junto a una descripción breve y un botón.
+ 
+ 
  ![Método UX](P3/cards.png)
   
 
