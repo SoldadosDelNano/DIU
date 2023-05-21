@@ -175,16 +175,16 @@ Por último, para nuestro layout en general hemos optado por bloques que contend
 >![Método UX](P3/visita_taller.png)
 CURSOS
 -----
->![Método UX](P3/cursos.png)
+![Método UX](P3/cursos.png)
 CURSOS APRENDE
 -----
->![Método UX](P3/cursos_aprende.png)
+![Método UX](P3/cursos_aprende.png)
 CURSOS ENSEÑA
 -----
->![Método UX](P3/cursos_enseña.png)
+![Método UX](P3/cursos_enseña.png)
 RESERVA
 -----
->![Método UX](P3/reserva_2.png)
+![Método UX](P3/reserva_2.png)
 
 
 
