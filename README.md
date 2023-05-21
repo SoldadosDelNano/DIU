@@ -130,36 +130,51 @@ nuestra propuesta de valor más genérica.
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>![moodboard](P3/canvas_moodboard.png)
+> Nuestro logotipo ha sido diseñado con la ayuda de https://logomakr.com/ además para el diseño de nuestro moodboard hemos utilizado https://app.milanote.com/
+> Este sería nuestro logotipo principal:
+>![logo](P3/logo_2.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+>Para hacer nuestra landing page hemos usado la herramienta https://webflow.com/
+>![landinpage](P3/landing_page.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+>Para abordar esta parte hemos investigado sobre los diferentes patrones y guidelines que existen apoyándonos en páginas como: https://developer.apple.com/design/human-interface-guidelines/ https://m3.material.io/ 
+•	Para el caso de los botones hemos optado por un botón rectangular cuadrado sencillo sin bordes.
+ ![Método UX](P3/boton.png)
+•	Para ilustrar las diferentes opciones de los cursos hemos utilizado las llamadas cards que contendrán una foto junto a una descripción breve y un botón.
+ ![Método UX](P3/cards.png)
+•	Para los iconos hemos elegido un estilo redondeado con un relleno sólido y nítido.
+ ![Método UX](P3/iconos.png)
+•	Para los estilos de tipografía hemos optado por dos tipos. Una para los menús y títulos(headers) y otra para el texto contenido.
+![Método UX](P3/tipografia_estilo.png)
+ 
+Por último, para nuestro layout en general hemos optado por bloques que contendrá las ya nombradas cards o información de otro tipo de forma breve de forma que el usuario vea la información de forma clara y concisa.
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+>Para diseñar las demás interfaces hemos optado por usar la herramienta de webflow al igual que hicimos con la landing page. Vamos a mostrar las interfaces de:
+•	visita al taller
+•	cursos=>aprende
+•	cursos=>enseña
+•	reserva(cursos)
+>![Método UX](P3/visita_taller.png)
+>![Método UX](P3/cursos.png)
+>![Método UX](P3/cursos_aprende.png)
+>![Método UX](P3/cursos_enseña.png)
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+>Hemos actualizado nuestro UX-Case Study hasta el punto 3.
+>https://github.com/SoldadosDelNano/DIU#readme
 
 ## Paso 4. Evaluación 
 
