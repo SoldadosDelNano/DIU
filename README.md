@@ -153,6 +153,10 @@ nuestra propuesta de valor más genérica.
 >![logo](P3/logo_2.png)
 
 
+>Para las fuentes hemos utilizado la página de https://fonts.google.com/
+Y para los iconos la página https://fontawesome.com/
+
+
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
@@ -199,6 +203,11 @@ Por último, para nuestro layout en general hemos optado por bloques que contend
 >-	cursos=>enseña
 >-	reserva(cursos)
 >-VISITA TALLER
+
+>Vamos a explicar el funcionamiento:
+Si pinchas en cursos en el header, aparece la página de cursos y si le pinchas sobre alguna opción se despliega abajo más información como muestran las dos interfaces de cursos-aprende y cursos-enseña.
+De la misma forma si pinchas sobre visita al taller vas a la página de visita al taller, pero esta vez hemos desplegado la interfaz como si ya hubiéramos clicado sobre una de las opciones.
+Pero el funcionamiento sería el mismo que el mencionado en cursos.
 
  
 >![Método UX](P3/visita_taller.png)
