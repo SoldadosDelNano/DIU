@@ -259,7 +259,7 @@ RESERVA
 
 >Para la evaluación de las propuestas A y B hemos usado la técnica de role playing. Hemos creado 2 >personajes ficticios (para la aplicación A) y otros dos reales(para la aplicación B)
 >![dados](P4/dados.png)
->![participantes](P4/partipantes.png)
+>![participantes](P4/participantes.png)
  Paqui: ( 3,5,2)(Aplicación A) Paqui es una mujer de 33 años que trabaja como guía en
 rutas turísticas ya que le encanta todo lo relacionado con el arte y lo artístico tiene un
 nivel avanzado en el manejo de las tecnologías (8.5/10).Debido a que controlaba poco
@@ -277,24 +277,25 @@ actualmente feliz.
 
 
 
-![Método UX](P4/dados.png). 4.c Cuestionario SUS
+![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>Para realizar un análisis de ambas aplicaciones, usaremos un cuestionario SUS. Hemos
+obtenido información de dos personajes ficticios para la aplicación A y de dos personajes reales
+para la aplicación B
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+>![sus](P4/Cuestionario_SUS.png)
+>Con los resultados obtenidos podemos ver que ambas aplicaciones tienen buena puntuación,
+>superando por un poco la aplicación B a la A. Vemos que todos los usuarios son avanzados y
+>han sido críticos a la hora de evaluar
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
-
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+>Por último, vamos a realizar el estudio de usabilidad de la página web Granada a Pie del grupo
+>TríoDinámico.
+>Se creará un mini-informe con los datos obtenidos para la aplicación B del A/B testing y así
+>como recomendaciones de mejoras.
+>Lo podemos encontrar en: https://github.com/SoldadosDelNano/DIU/blob/master/P4/P4_UsabReport_GranadaAPie_don eby_DIU3_SoldadosDelNano.docx.pdf
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
