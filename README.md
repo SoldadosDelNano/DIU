@@ -249,25 +249,35 @@ RESERVA
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+>Para está práctica nos han asignado un equipo para emplear la técnica A/B testing.
+>El grupo asignado ha implementado el sitio web: Granada A Pie: https://github.com/MrSquid0/DIU
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+>Para la evaluación de las propuestas A y B hemos usado la técnica de role playing. Hemos creado 2 >personajes ficticios (para la aplicación A) y otros dos reales(para la aplicación B)
+>![dados](P4/dados.png)
+>![participantes](P4/partipantes.png)
+ Paqui: ( 3,5,2)(Aplicación A) Paqui es una mujer de 33 años que trabaja como guía en
+rutas turísticas ya que le encanta todo lo relacionado con el arte y lo artístico tiene un
+nivel avanzado en el manejo de las tecnologías (8.5/10).Debido a que controlaba poco
+las tecnologías tuvo un poco de miedo usando la aplicación.
+- Antonio: (1, 4, 6)(Aplicación A) Antonio, estudiante, aporta conocimientos avanzados
+en internet lo que será importante en la valoración. Actualmente se encuentra
+disgustado por lo que pasará muchas cosas por alto o será mucho más duro en su
+evaluación.
+- Adrían: (2,1,3)(Aplicación B) Adrián es un estudiante de biología,es una persona
+trabajadora, con conocimientos avanzados del manejo de las tecnologías, es una
+persona alegre.
+- Alba: (3,2,3)(Aplicación B) Alba, estudiante. Tiene un gran interés en conocer la cultura
+que hay en Granada, tiene conocimientos medios sobre utilizar internet y está
+actualmente feliz.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
-![Método UX](img/Survey.png). 4.c Cuestionario SUS
+![Método UX](P4/dados.png). 4.c Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
