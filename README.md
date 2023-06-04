@@ -14,7 +14,7 @@ Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Actividades de Turismo)
   >![logo](P3/logo_2.png)
   
 >Miembros
- >* :bust_in_silhouette:   Jesús Jaenes Sánchez     :octocat: www.github.com/jesusk   
+ >* :bust_in_silhouette:   Jesús Jaenes Sánchez     :octocat: www.github.com/jesusk
  >* :bust_in_silhouette:  Adrián Anguita Muñoz     :octocat: www.github.com/oneadri
 
 ----- 
@@ -46,12 +46,19 @@ además de tener también tours guiados de pago.
 Hemos elegido a esta persona ya que es una persona joven con la capacidad de intuir los 
 diferentes interfaces y va a ser más exigente a la hora de hacer uso de ellos. Esta interesada 
 vivir experiencias nuevas con sus amigas.
+
+
 ![persona1](P1/img/Persona1.png)
+
+
+
 
 >Paco:
 Hemos elegido a esta persona ya que se trata de una persona totalmente contraría a la hora de 
 manejar las tecnologías, por lo que puede tener dificultades a la hora de hacer uso de ellas.
 También esta interesado en hacer algunas actividades con los amigos.
+
+
 ![persona1](P1/img/Persona2.png)
 
 -----
@@ -64,7 +71,8 @@ persona acostumbrada al uso de estos sitios webs frente a una persona que no est
 
 >Journey map de Alba
 ![persona1](P1/img/User_Journey_Map1.png)
-
+<br>
+ 
 >Journey map de Paco
 ![persona2](P1/img/User_Journey_Map2.png)
 
@@ -77,6 +85,8 @@ persona acostumbrada al uso de estos sitios webs frente a una persona que no est
 >Valoración final (numérica): 54
 
 >Comentario sobre la valoración: Corresponde totalmente, esta página tiene mucho que mejorar, tanto a nivel de usabilidad como a nivel funcional.
+
+
 
 
 ## Paso 2. UX Design  
@@ -96,20 +106,21 @@ Somos conscientes que podemos agrandar tanto como queramos los cursos en sí en 
 contextos, diferentes usuarios, por grupos, individuales... Pero hemos optado por hacer
 nuestra propuesta de valor más genérica.
 
-
-
+ 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >![canvas](P2/canvas.png)
+<br>
+ 
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
->>![taskanalisis](P2/Task_Analisis.png)
+>![taskanalisis](P2/Task_Analisis.png)
 
 
 
+ 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 > Identificar términos para diálogo con usuario  
@@ -120,8 +131,14 @@ nuestra propuesta de valor más genérica.
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->Hemos diseñado unos bocetos de forma muy general para ver como vamos a plantera nuestro diseño 
->![bocetos](P2/Boceto.jpeg)
+>Hemos diseñado unos bocetos de forma muy general para ver como vamos a plantera nuestro diseño
+
+
+![bocetos](P2/Boceto.jpeg)
+
+
+
+
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
@@ -130,36 +147,101 @@ nuestra propuesta de valor más genérica.
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>![moodboard](P3/canvas_moodboar.png)
+> Nuestro logotipo ha sido diseñado con la ayuda de https://logomakr.com/ además para el diseño de nuestro moodboard hemos utilizado https://app.milanote.com/
+> Este sería nuestro logotipo principal:
+
+
+>![logo](P3/logo_2.png)
+
+
+>Para las fuentes hemos utilizado la página de https://fonts.google.com/
+
+
+>Y para los iconos la página https://fontawesome.com/
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
->>> Plantear Landing Page 
+>Para hacer nuestra landing page hemos usado la herramienta https://webflow.com/
+>![landinpage](P3/landing_page.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+>Para abordar esta parte hemos investigado sobre los diferentes patrones y guidelines que existen apoyándonos en páginas como:
+> https://developer.apple.com/design/human-interface-guidelines/ 
+> https://m3.material.io/ 
+>-	Para el caso de los botones hemos optado por un botón rectangular cuadrado sencillo sin bordes.
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+
+ ![Método UX](P3/boton.png)</br>
+
+
+>-	Para ilustrar las diferentes opciones de los cursos hemos utilizado las llamadas cards que contendrán una foto junto a una descripción breve y un botón.
+ 
+ 
+ ![Método UX](P3/cards.png)
+  
+
+>-	Para los iconos hemos elegido un estilo redondeado con un relleno sólido y nítido.
+
+
+ ![Método UX](P3/iconos.png)
+
+
+>-	Para los estilos de tipografía hemos optado por dos tipos. Una para los menús y títulos(headers) y otra para el texto contenido.
+
+
+![Método UX](P3/tipografia_estilo.png)
+ 
+ 
+Por último, para nuestro layout en general hemos optado por bloques que contendrá las ya nombradas cards o información de otro tipo de forma breve de forma que el usuario vea la información de forma clara y concisa.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+>Para diseñar las demás interfaces hemos optado por usar la herramienta de webflow al igual que hicimos con la landing page. Vamos a mostrar las interfaces de:
+>-	visita al taller
+>-	cursos=>aprende
+>-	cursos=>enseña
+>-	reserva(cursos)
+>-VISITA TALLER
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>Vamos a explicar el funcionamiento:
+Si pinchas en cursos en el header, aparece la página de cursos y si le pinchas sobre alguna opción se despliega abajo más información como muestran las dos interfaces de cursos-aprende y cursos-enseña.
+De la misma forma si pinchas sobre visita al taller vas a la página de visita al taller, pero esta vez hemos desplegado la interfaz como si ya hubiéramos clicado sobre una de las opciones.
+Pero el funcionamiento sería el mismo que el mencionado en cursos.
+
+ 
+>![Método UX](P3/visita_taller.png)
+
+
+CURSOS
+-----
+![Método UX](P3/cursos.png)
+
+
+CURSOS APRENDE
+-----
+![Método UX](P3/cursos_aprende.png)
+
+
+CURSOS ENSEÑA
+-----
+![Método UX](P3/cursos_enseña.png)
+
+
+RESERVA
+-----
+![Método UX](P3/reserva_2.png)
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+>Hemos actualizado nuestro UX-Case Study hasta el punto 3.
+>https://github.com/SoldadosDelNano/DIU#readme
 
 ## Paso 4. Evaluación 
 
