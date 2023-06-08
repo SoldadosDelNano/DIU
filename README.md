@@ -249,45 +249,61 @@ RESERVA
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+>Para está práctica nos han asignado un equipo para emplear la técnica A/B testing.
+>El grupo asignado ha implementado el sitio web: Granada A Pie: https://github.com/MrSquid0/DIU
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+>Para la evaluación de las propuestas A y B hemos usado la técnica de role playing. Hemos creado 2 >personajes ficticios (para la aplicación A) y otros dos reales(para la aplicación B)
+>![dados](P4/dados.png)
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+>
+
+>![participantes](P4/participantes.png)
+
+
+- Paqui: ( 3,5,2)(Aplicación A) Paqui es una mujer de 33 años que trabaja como guía en
+rutas turísticas ya que le encanta todo lo relacionado con el arte y lo artístico tiene un
+nivel avanzado en el manejo de las tecnologías (8.5/10).Debido a que controlaba poco
+las tecnologías tuvo un poco de miedo usando la aplicación.
+- Antonio: (1, 4, 6)(Aplicación A) Antonio, estudiante, aporta conocimientos avanzados
+en internet lo que será importante en la valoración. Actualmente se encuentra
+disgustado por lo que pasará muchas cosas por alto o será mucho más duro en su
+evaluación.
+- Adrían: (2,1,3)(Aplicación B) Adrián es un estudiante de biología,es una persona
+trabajadora, con conocimientos avanzados del manejo de las tecnologías, es una
+persona alegre.
+- Alba: (3,2,3)(Aplicación B) Alba, estudiante. Tiene un gran interés en conocer la cultura
+que hay en Granada, tiene conocimientos medios sobre utilizar internet y está
+actualmente feliz.
+
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>Para realizar un análisis de ambas aplicaciones, usaremos un cuestionario SUS. Hemos obtenido información de dos personajes ficticios para la aplicación A y de dos personajes reales
+>para la aplicación B
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
+>![sus](P4/Cuestionario_sus.png)
+Con los resultados obtenidos podemos ver que ambas aplicaciones tienen buena puntuación,
+superando por un poco la aplicación B a la A. Vemos que todos los usuarios son avanzados y han sido críticos a la hora de evaluar.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
-
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+>Por último, vamos a realizar el estudio de usabilidad de la página web Granada a Pie del grupo TríoDinámico.
+>Se creará un mini-informe con los datos obtenidos para la aplicación B del A/B testing y así como recomendaciones de mejoras.
+>Lo podemos encontrar en: https://github.com/SoldadosDelNano/DIU/blob/master/P4/P4_UsabReport_GranadaAPie_doneby_DIU3_SoldadosDelNano.docx.pdf
 
 
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+
+
+## Paso 5. Evaluación de Accesibilidad  (no necesaria)
+
 
 
 >>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
